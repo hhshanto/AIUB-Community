@@ -10,6 +10,9 @@ Login:
 Signup:
 ![alt text](https://github.com/hhshanto/AIUB-Community/blob/master/img/Signup.png)
 
+Home:
+![alt text](https://github.com/hhshanto/AIUB-Community/blob/master/img/Home.png)
+
 Userlist:
 ![alt text](https://github.com/hhshanto/AIUB-Community/blob/master/img/Userlist.png)
 
