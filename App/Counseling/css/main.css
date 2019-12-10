@@ -1,0 +1,36 @@
+button {
+  background-color: #e7e7e7; color: black; /* Green */
+  margin:5px;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-weight: bold;
+}
+table[align="center"] {
+    margin: 0 auto;
+
+}
+table td {
+  text-align: left;
+  font-size: 20px;
+  
+}
+b {
+  font-family: cursive;
+}
+#Message{
+  padding: 3px 3px;
+font-size: 20px;
+text-decoration: none;
+background-color: color: black;
+
+}
+input {
+  width: 200px;
+}
+

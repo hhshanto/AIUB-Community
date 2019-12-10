@@ -1,0 +1,123 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+/* Banner */
+	#banner {
+		padding: 16em 0 13em 0;
+		background-attachment: fixed;
+		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+		background-position: center top;
+		background-size: cover;
+		line-height: 1.75;
+		text-align: center;
+	}
+
+
+		#banner h2 {
+			color: #FFDAB9;
+			display: inline-block;
+			font-size: 3.5em;
+			line-height: 1.35;
+			margin-bottom: 0.5em;
+		}
+		#banner h3 {
+			color: #FFDAB9;
+			display: inline-block;
+			font-size: 5.5em;
+			line-height: 1.35;
+			margin-bottom: 0.5em;
+		}
+
+/* Button */
+
+	.button {
+		-moz-appearance: none;
+		-webkit-appearance: none;
+		-ms-appearance: none;
+		appearance: none;
+		-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		background-color: #323037;
+		border-radius: 4px;
+		color: #ffffff !important;
+		border: 0;
+		cursor: pointer;
+		display: inline-block;
+		font-weight: 700;
+		height: 3.15em;
+		line-height: 3.25em;
+		padding: 0 2.2em;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+		white-space: nowrap;
+	}
+
+
+
+		input[type="submit"].big,
+		input[type="reset"].big,
+		input[type="button"].big,
+		button.big,
+		.button.big {
+			font-size: 1.0em;
+		}
+		input[type="submit"].big1,
+		input[type="reset"].big1,
+		input[type="button"].big1,
+		button.big1,
+		.button.big1 {
+			font-size: 0.85em;
+		}
+
+		input[type="submit"].special,
+		input[type="reset"].special,
+		input[type="button"].special,
+		button.special,
+		.button.special {
+			background-color: #f32853;
+			color: #ffffff !important;
+		}
+		input[type="submit"].special1,
+		input[type="reset"].special1,
+		input[type="button"].special1,
+		button.special1,
+		.button.special1 {
+			background-color: #6B8E23;
+			color: #ffffff !important;
+		}
+
+
+
+		/* Basic */
+		body.landing {
+			padding-top: 0 !important;
+		}
+.myDiv{
+
+	height: 450px;
+	width: 700px;
+	align-content: center;
+	background-color: #FFE4E1;
+	position: absolute;
+	top:50;
+	bottom: 250;
+	left: 0;
+	right: 0;
+  	
+	margin: auto;
+}
+.tablecolor{
+
+	background-color: lightblue;
+}
+p.serif {
+  font-family: "Times New Roman", Times, serif;
+}
+
+p.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+}

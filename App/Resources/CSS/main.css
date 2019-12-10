@@ -1,0 +1,14 @@
+.tableR
+{
+	text-align: left;
+}
+table[align="center"] {
+    margin: 0 auto;
+
+}
+.tableR,tr {
+	height: 100px;
+}
+#file{
+	font-size: 25px;
+}
